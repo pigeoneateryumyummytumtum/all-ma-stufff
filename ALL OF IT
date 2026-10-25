@@ -1,0 +1,5 @@
+RECOMMENDED FOR LOWER END DEVICES:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pigeeeeeon09/confine/refs/heads/main/confine"))() 
+
+RECOMMENDED FOR MID-HIGHER END DEVICES:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/easy23113/test/refs/heads/main/test.lua"))()
