@@ -3,3 +3,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/pigeeeeeon09/confine/
 
 RECOMMENDED FOR MID-HIGHER END DEVICES:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/easy23113/test/refs/heads/main/test.lua"))()
+
+THIS IS THE !! AUTO FARM !!:
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/easy23113/auto/refs/heads/main/auto"))()
