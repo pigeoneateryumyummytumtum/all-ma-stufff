@@ -8,6 +8,11 @@ THIS IS THE !! AUTO FARM !!:
 Auto-ware is the name :)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/easy23113/auto/refs/heads/main/auto"))()
 
+THIS IS THE FAST AUTO-FARM (DOESN'T WAIT IN LOBBY)
+YOU CAN BE CAUGHT DOING THIS AUTOFARM, BE AWARE
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pigeoneateryumyummytumtum/instant-auto-farm/refs/heads/main/instant%20auto%20farm"))()
+
+
 
 
 
